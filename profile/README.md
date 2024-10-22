@@ -11,4 +11,5 @@ logicsponge is a Python framework to compute with data streams. Examples are mon
 
 # Code base
 
-[Check out our main codebase here](https://github.com/innatelogic/logicsponge-core/)
+Our main codebase and an introductory tutorial are available here:  
+https://github.com/innatelogic/logicsponge/
